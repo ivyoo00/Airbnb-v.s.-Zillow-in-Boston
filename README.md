@@ -2,7 +2,7 @@
 Airbnb Homestay v.s. Zillow Room Rental in Boston
 
 
-Project member: 
-Xintong Hao, hxtong@bu.edu
-Jiali Ge, ivydany@bu.edu
-Jingjun Wang, jingjunw@bu.edu
+Project member:<br/> 
+Xintong Hao, hxtong@bu.edu<br/>
+Jiali Ge, ivydany@bu.edu<br/>
+Jingjun Wang, jingjunw@bu.edu<br/>
